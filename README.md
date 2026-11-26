@@ -29,16 +29,16 @@ Manual testing: writing test cases, reporting bugs with steps and screenshots, r
 
 | Project | What it is |
 |---|---|
-| [saucedemo-selenium-pytest](https://github.com/Belaalos/saucedemo-selenium-pytest) | UI tests with Selenium, pytest and the Page Object pattern (23 tests), run on GitHub Actions |
-| [saucedemo-playwright-e2e](https://github.com/Belaalos/saucedemo-playwright-e2e) | The same shop tested with Playwright (14 tests) |
-| [jsonplaceholder-api-tests](https://github.com/Belaalos/jsonplaceholder-api-tests) | Postman collection run with Newman (12 requests, 43 assertions) |
-| [dummyjson-api-tests](https://github.com/Belaalos/dummyjson-api-tests) | API tests in Python with pytest and requests (21 tests) |
-| [saucedemo-test-plan](https://github.com/Belaalos/saucedemo-test-plan) | 37 manual test cases and 3 bug reports |
-| [the-internet-behave-bdd](https://github.com/Belaalos/the-internet-behave-bdd) | BDD scenarios in Gherkin with behave and Selenium (9 scenarios) |
-| [todomvc-cypress-tests](https://github.com/Belaalos/todomvc-cypress-tests) | Cypress end to end tests for a React todo app (14 tests) |
-| [restful-booker-api-tests](https://github.com/Belaalos/restful-booker-api-tests) | pytest tests for a booking API: CRUD, token auth, negative cases (15 tests) |
-| [toolshop-api-tests](https://github.com/Belaalos/toolshop-api-tests) | pytest tests for a shop API: pagination, filters, search (22 tests) |
-| [api-load-test-locust](https://github.com/Belaalos/api-load-test-locust) | Small load test with Locust and pass/fail thresholds |
+| [storefront-ui-regression-suite](https://github.com/Belaalos/storefront-ui-regression-suite) | UI tests with Selenium, pytest and the Page Object pattern (23 tests), run on GitHub Actions |
+| [storefront-e2e-playwright](https://github.com/Belaalos/storefront-e2e-playwright) | The same shop tested with Playwright (14 tests) |
+| [content-api-newman-suite](https://github.com/Belaalos/content-api-newman-suite) | Postman collection run with Newman (12 requests, 43 assertions) |
+| [catalog-api-test-suite](https://github.com/Belaalos/catalog-api-test-suite) | API tests in Python with pytest and requests (21 tests) |
+| [storefront-qa-test-plan](https://github.com/Belaalos/storefront-qa-test-plan) | 37 manual test cases and 3 bug reports |
+| [web-app-bdd-acceptance-tests](https://github.com/Belaalos/web-app-bdd-acceptance-tests) | BDD scenarios in Gherkin with behave and Selenium (9 scenarios) |
+| [task-manager-cypress-e2e](https://github.com/Belaalos/task-manager-cypress-e2e) | Cypress end to end tests for a React todo app (14 tests) |
+| [booking-api-qa-suite](https://github.com/Belaalos/booking-api-qa-suite) | pytest tests for a booking API: CRUD, token auth, negative cases (15 tests) |
+| [product-search-api-tests](https://github.com/Belaalos/product-search-api-tests) | pytest tests for a shop API: pagination, filters, search (22 tests) |
+| [api-performance-locust-tests](https://github.com/Belaalos/api-performance-locust-tests) | Small load test with Locust and pass/fail thresholds |
 
 ## Contact
 
