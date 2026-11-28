@@ -11,12 +11,17 @@ I'm a software engineering graduate based in Egypt, working towards a career in 
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?logo=playwright&logoColor=white)
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
 ![Behave](https://img.shields.io/badge/behave_(BDD)-5C2D91)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![TestNG](https://img.shields.io/badge/TestNG-FF7F00)
+![Appium](https://img.shields.io/badge/Appium-662D91?logo=appium&logoColor=white)
 
 **API and performance testing**
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Newman](https://img.shields.io/badge/Newman-FF6C37?logo=postman&logoColor=white)
 ![Requests](https://img.shields.io/badge/requests-3776AB?logo=python&logoColor=white)
 ![Locust](https://img.shields.io/badge/Locust-3B7D23)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?logo=sqlite&logoColor=white)
 
 **Process and tools**
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
@@ -39,6 +44,10 @@ Manual testing: writing test cases, reporting bugs with steps and screenshots, r
 | [booking-api-qa-suite](https://github.com/Belaalos/booking-api-qa-suite) | pytest tests for a booking API: CRUD, token auth, negative cases (15 tests) |
 | [product-search-api-tests](https://github.com/Belaalos/product-search-api-tests) | pytest tests for a shop API: pagination, filters, search (22 tests) |
 | [api-performance-locust-tests](https://github.com/Belaalos/api-performance-locust-tests) | Small load test with Locust and pass/fail thresholds |
+| [storefront-selenium-testng](https://github.com/Belaalos/storefront-selenium-testng) | The same shop tested in Java with Selenium 4, TestNG and Maven, run headless on GitHub Actions |
+| [storefront-mobile-appium-suite](https://github.com/Belaalos/storefront-mobile-appium-suite) | Android app tests with Appium 2, Python and pytest (Page Object Model), run on GitHub Actions |
+| [geo-graphql-api-suite](https://github.com/Belaalos/geo-graphql-api-suite) | pytest tests for a public GraphQL API: queries, variables, nested fields, negative cases |
+| [orders-db-validation-suite](https://github.com/Belaalos/orders-db-validation-suite) | SQL data quality checks with pytest on a shop database: nulls, duplicates, foreign keys, totals |
 
 ## Contact
 
